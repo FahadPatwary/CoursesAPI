@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cover": "",
+      "cover": "https://fahadpatwary.github.io/CoursesAPI/Img/One.png",
       "courseName": "Javascript",
       "courseDes": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm.",
       "courseRating": 4.8,
